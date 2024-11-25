@@ -113,14 +113,16 @@ void Draw()
 				bool print = false;
 				for (int k = 0; k < nTail; k++)
 				{
-					
+					// When the coodinate is tailx of k and taily of k, print the tail	
 					if (tailX[k] == j && tailY[k] == i)
 					{
 						cout << "o";
+						// Check if the tail is printed, if printed put the print flag as true
 						print = true;
 					}
 					
 				}
+				// If the printed then dont print space else print space
 				if (!print)
 					cout << " ";
 			}
@@ -165,6 +167,7 @@ void Input()
 }
 void Logic()
 {
+  //Logic for the tail incrementing when eating food
 	int prevX = tailX[0];
 	int prevY = tailY[0];
 	int prev2X, prev2Y;
