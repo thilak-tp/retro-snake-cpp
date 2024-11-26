@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\Projects\C++ Development\Visual Studio Projects\forkbench-gui-windows-private\retro-snake-raylib\main.cpp(124,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Projects\C++ Development\Visual Studio Projects\forkbench-gui-windows-private\retro-snake-raylib\main.cpp(125,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Projects\C++ Development\Visual Studio Projects\forkbench-gui-windows-private\retro-snake-raylib\main.cpp(143,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\C++ Development\Visual Studio Projects\forkbench-gui-windows-private\retro-snake-raylib\main.cpp(143,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  retro-snake-raylib.vcxproj -> D:\Projects\C++ Development\Visual Studio Projects\forkbench-gui-windows-private\retro-snake-raylib\x64\Debug\retro-snake-raylib.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
